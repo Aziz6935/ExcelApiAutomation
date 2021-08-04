@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Execute CS Credit view Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7fa085bd-4082-40cb-b4a6-592d222773c3</testCaseGuid>
+   <variable>
+      <defaultValue>'a.sales'</defaultValue>
+      <description></description>
+      <id>e634bfcd-1745-4330-b388-6085fd8ab979</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'park4701'</defaultValue>
+      <description></description>
+      <id>c31ce4b3-97ee-48ea-92b5-8f67670f96e2</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5043025d-31cc-414b-b394-e84eb8411c5a</id>
+      <masked>false</masked>
+      <name>valuekey</name>
+   </variable>
+</TestCaseEntity>

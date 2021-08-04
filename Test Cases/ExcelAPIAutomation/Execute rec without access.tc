@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Execute rec without access</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7b8df505-393c-41ce-a04e-bb73ca8cf184</testCaseGuid>
+   <variable>
+      <defaultValue>'a.sales'</defaultValue>
+      <description></description>
+      <id>37c80324-10c9-4348-93b5-29ca9676ca42</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'park4701'</defaultValue>
+      <description></description>
+      <id>0170d816-b668-4eeb-b09e-00dbd7256d7c</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

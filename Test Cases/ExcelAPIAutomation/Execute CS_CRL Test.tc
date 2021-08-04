@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Execute CS_CRL Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2f8026e2-4a41-4815-82e4-a5a1c96668ef</testCaseGuid>
+   <variable>
+      <defaultValue>'a.sales'</defaultValue>
+      <description></description>
+      <id>f9f363c2-0bac-4362-ac6b-846497eeb99b</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'park4701'</defaultValue>
+      <description></description>
+      <id>39b4f63d-3968-43be-b0af-bda6dfa0a2d8</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

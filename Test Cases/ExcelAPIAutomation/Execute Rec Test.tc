@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Execute Rec Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>232a7170-73a2-4ad3-832f-43646bebcaff</testCaseGuid>
+   <variable>
+      <defaultValue>'a.sales'</defaultValue>
+      <description></description>
+      <id>e55250b6-ed46-40c5-84ce-1ef6937c8722</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'park4701'</defaultValue>
+      <description></description>
+      <id>6d2f8e85-d5e5-4e23-a02d-c19b5140964d</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

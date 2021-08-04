@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete User Upper Case Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7c2e74ae-3091-4e31-8bf7-3e1e2a469eaa</testCaseGuid>
+   <variable>
+      <defaultValue>'a.sales'</defaultValue>
+      <description></description>
+      <id>e1a08f55-6949-4f57-be2a-595dae92168c</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'park4701'</defaultValue>
+      <description></description>
+      <id>6b66305f-ca16-4053-bb4c-52f8219d7da3</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'wildcat'</defaultValue>
+      <description></description>
+      <id>c34b9a6c-3c19-4a21-a425-0517a982c56a</id>
+      <masked>false</masked>
+      <name>newuser</name>
+   </variable>
+   <variable>
+      <defaultValue>'6136e7a6-7331-48a6-86c5-4c08e3f8e514'</defaultValue>
+      <description></description>
+      <id>a2546929-e573-4d82-9d46-90ed657c776b</id>
+      <masked>false</masked>
+      <name>login_id</name>
+   </variable>
+</TestCaseEntity>

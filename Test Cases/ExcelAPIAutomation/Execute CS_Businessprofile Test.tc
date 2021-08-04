@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Execute CS_Businessprofile Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd6508fe-7429-4d9a-adb5-0dc45a474e46</testCaseGuid>
+   <variable>
+      <defaultValue>'a.sales'</defaultValue>
+      <description></description>
+      <id>c69f4b50-0ae7-4ebc-aa16-1767cf708327</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'park4701'</defaultValue>
+      <description></description>
+      <id>49446c0b-cc77-4cb9-97d0-426812211838</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2859ff00-44d3-493d-a3de-6522ac43561f</id>
+      <masked>false</masked>
+      <name>valuekey</name>
+   </variable>
+</TestCaseEntity>

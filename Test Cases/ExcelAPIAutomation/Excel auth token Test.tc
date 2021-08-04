@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Excel auth token Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c5a3abfd-0226-411c-b0a9-826c3999d39e</testCaseGuid>
+   <variable>
+      <defaultValue>'a.sales'</defaultValue>
+      <description></description>
+      <id>49a97c03-0b32-4ee2-ae3e-0aeeae2c675c</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'park4701'</defaultValue>
+      <description></description>
+      <id>25ea874a-a288-4786-a006-14a7fa55f0f9</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add User Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>33f448f9-4b63-4696-bb9c-dc6ba30b6732</testCaseGuid>
+   <variable>
+      <defaultValue>'a.sales'</defaultValue>
+      <description></description>
+      <id>dd195d51-6d6c-4346-a83a-1f13e86de593</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'park4701'</defaultValue>
+      <description></description>
+      <id>e04dfcab-7fce-409f-a981-7e99d4501c2f</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'wildcat'</defaultValue>
+      <description></description>
+      <id>b48dc99b-01ef-488c-80a0-202076de7f7e</id>
+      <masked>false</masked>
+      <name>newuser</name>
+   </variable>
+   <variable>
+      <defaultValue>'6136e7a6-7331-48a6-86c5-4c08e3f8e514'</defaultValue>
+      <description></description>
+      <id>2777a4c6-d5e8-4d72-af34-0115b55876a5</id>
+      <masked>false</masked>
+      <name>login_id</name>
+   </variable>
+</TestCaseEntity>

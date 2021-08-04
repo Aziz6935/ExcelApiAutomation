@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete User Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7787f43-08b3-48db-9138-098a7d6015ba</testCaseGuid>
+   <variable>
+      <defaultValue>'a.sales'</defaultValue>
+      <description></description>
+      <id>b5129aea-501b-4f9c-82ce-b6d151bd32ef</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'park4701'</defaultValue>
+      <description></description>
+      <id>adc50feb-aad2-4b98-aba5-67b34eccd5ab</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'wildcat'</defaultValue>
+      <description></description>
+      <id>48dd24a1-0ef9-4038-9359-a8d973f530bc</id>
+      <masked>false</masked>
+      <name>newuser</name>
+   </variable>
+   <variable>
+      <defaultValue>'6136e7a6-7331-48a6-86c5-4c08e3f8e514'</defaultValue>
+      <description></description>
+      <id>bc584cc3-a897-4bf9-96c6-69a77dd35844</id>
+      <masked>false</masked>
+      <name>login_id</name>
+   </variable>
+</TestCaseEntity>

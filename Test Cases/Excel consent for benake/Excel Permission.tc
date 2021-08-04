@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Excel Permission</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f04b4053-3ddd-443e-8fbd-c98a375b6010</testCaseGuid>
+   <variable>
+      <defaultValue>'benake'</defaultValue>
+      <description></description>
+      <id>12af7bb2-8ca1-4099-b979-d229fa7f71b3</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'park4701'</defaultValue>
+      <description></description>
+      <id>10eaf977-0b07-4b25-92e0-dea6e0fdeda6</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

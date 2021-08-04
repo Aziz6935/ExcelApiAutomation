@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Excel auth token for benake with invalid dataTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5f4299aa-65b3-4975-b82b-7e19ecf9b2f8</testCaseGuid>
+   <variable>
+      <defaultValue>'benke'</defaultValue>
+      <description></description>
+      <id>65422557-895e-4603-bde0-eb0074e34915</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'park4701'</defaultValue>
+      <description></description>
+      <id>8c378c76-094c-4548-848e-3103172b8b9a</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

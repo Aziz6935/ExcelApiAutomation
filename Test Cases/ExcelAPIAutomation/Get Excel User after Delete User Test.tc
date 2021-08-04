@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get Excel User after Delete User Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aeb30e2b-0115-47d0-982f-5200c3e1170d</testCaseGuid>
+   <variable>
+      <defaultValue>'a.sales'</defaultValue>
+      <description></description>
+      <id>60cc520c-4aee-4a8e-8ec2-ed715a8cfa75</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'park4701'</defaultValue>
+      <description></description>
+      <id>d9a4a006-2e70-4aea-ba44-4addaa46abf4</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'wildcat'</defaultValue>
+      <description></description>
+      <id>9a1ed65d-0787-4695-a49f-7a2a1e2a90b4</id>
+      <masked>false</masked>
+      <name>newuser</name>
+   </variable>
+   <variable>
+      <defaultValue>'6136e7a6-7331-48a6-86c5-4c08e3f8e514'</defaultValue>
+      <description></description>
+      <id>47083b19-2848-4dcf-8ec1-22aaa3020d58</id>
+      <masked>false</masked>
+      <name>login_id</name>
+   </variable>
+</TestCaseEntity>

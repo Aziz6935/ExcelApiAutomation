@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get excel Users Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>486988da-f4aa-46b1-9f52-87e67a993974</testCaseGuid>
+   <variable>
+      <defaultValue>'a.sales'</defaultValue>
+      <description></description>
+      <id>7bcd6e9d-2a20-40a6-9127-914d9769f293</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'park4701'</defaultValue>
+      <description></description>
+      <id>f139f206-00c8-49e1-bc1a-64860841c057</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

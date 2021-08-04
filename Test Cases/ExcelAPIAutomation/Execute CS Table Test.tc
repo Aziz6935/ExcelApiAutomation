@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Execute CS Table Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0d43b44f-2738-4c26-8026-11f94e341cde</testCaseGuid>
+   <variable>
+      <defaultValue>'a.sales'</defaultValue>
+      <description></description>
+      <id>42f7b6d5-eafc-4ff0-ba3d-03200c7690b7</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'park4701'</defaultValue>
+      <description></description>
+      <id>d3f18755-953c-437f-8032-784e94c58983</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get excel Users After Adding Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>68d71c62-670e-467d-b344-2c23f0e2ad40</testCaseGuid>
+   <variable>
+      <defaultValue>'a.sales'</defaultValue>
+      <description></description>
+      <id>69c163d1-054f-46ac-925c-f4f34b268a01</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'park4701'</defaultValue>
+      <description></description>
+      <id>3a1044af-2491-42b3-b014-fe45880756a7</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'wildcat'</defaultValue>
+      <description></description>
+      <id>97920a39-e6ad-42df-b38d-9348fd72d6ac</id>
+      <masked>false</masked>
+      <name>newuser</name>
+   </variable>
+   <variable>
+      <defaultValue>'6136e7a6-7331-48a6-86c5-4c08e3f8e514'</defaultValue>
+      <description></description>
+      <id>19402d1f-c32a-4ce4-80a7-b54395cca05d</id>
+      <masked>false</masked>
+      <name>login_id</name>
+   </variable>
+</TestCaseEntity>

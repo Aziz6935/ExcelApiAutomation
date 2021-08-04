@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Execute CS_CSview Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>368f4e25-ecb7-44b4-8887-cbd7056818a3</testCaseGuid>
+   <variable>
+      <defaultValue>'a.sales'</defaultValue>
+      <description></description>
+      <id>a2320bea-cbf7-4316-ad95-c0cf25c0d863</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'park4701'</defaultValue>
+      <description></description>
+      <id>8aff06a2-e164-4e6f-8130-db24aa50e98b</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cb32d00d-5461-4e2f-b609-50572a4d0092</id>
+      <masked>false</masked>
+      <name>valuekey</name>
+   </variable>
+</TestCaseEntity>

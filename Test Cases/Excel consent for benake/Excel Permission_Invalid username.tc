@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Excel Permission_Invalid username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f9526aad-7e1d-4d77-824e-b719222bfe3f</testCaseGuid>
+   <variable>
+      <defaultValue>'benak'</defaultValue>
+      <description></description>
+      <id>1ab518ea-90ef-4c99-8078-de331e95568b</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'park4701'</defaultValue>
+      <description></description>
+      <id>bdb840d2-7d59-4e4d-977f-bc2b70262a6e</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

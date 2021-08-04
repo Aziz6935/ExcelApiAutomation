@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Execute CS_CQS Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eeae9172-25cf-4fac-a376-ca303352ef76</testCaseGuid>
+   <variable>
+      <defaultValue>'a.sales'</defaultValue>
+      <description></description>
+      <id>b9109e85-3e92-40c7-96ed-481e3133b15a</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'park4701'</defaultValue>
+      <description></description>
+      <id>c6a84afc-3a9f-4f5f-a134-f1729fec1d56</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Excel auth token for benake Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5c32bd2b-395f-4b25-8f03-0c0c95316e11</testCaseGuid>
+   <variable>
+      <defaultValue>'benake'</defaultValue>
+      <description></description>
+      <id>09fec0c8-e49c-4618-964c-9869482632f4</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'park4701'</defaultValue>
+      <description></description>
+      <id>00e534fa-d50c-4ece-b2f0-99c0382b32bc</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

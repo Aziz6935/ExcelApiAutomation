@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Execute CS_CQS Test without access</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>67341c4e-6fdc-4d08-a711-4957532f196d</testCaseGuid>
+   <variable>
+      <defaultValue>'a.sales'</defaultValue>
+      <description></description>
+      <id>34420888-7d7b-4777-a139-16a35caf0085</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'park4701'</defaultValue>
+      <description></description>
+      <id>a76a7fa7-d36a-405c-8f92-861ea7b99d29</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

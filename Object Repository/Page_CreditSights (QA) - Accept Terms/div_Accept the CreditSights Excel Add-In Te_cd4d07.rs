@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Accept the CreditSights Excel Add-In Te_cd4d07</name>
+   <tag></tag>
+   <elementGuidId>a4ffc0b2-8f21-49f6-8eb5-3161c5693608</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/section/div/div/div/div/div/form/div[3]/div/div[2]/div/label/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.cs-radio-v2-input-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cs-radio-v2-input-label</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;page-container&quot;]/div[@class=&quot;design-v2 accept-terms page-container&quot;]/div[@class=&quot;full-page-container&quot;]/section[@class=&quot;section-container&quot;]/div[@class=&quot;section-content&quot;]/div[@class=&quot;column-container&quot;]/div[@class=&quot;column col-xs-12 col-md-6 col-md-offset-3&quot;]/div[@class=&quot;panel panel-default&quot;]/div[@class=&quot;panel-body&quot;]/form[@class=&quot;form&quot;]/div[@class=&quot;form-content form-group&quot;]/div[@class=&quot;accept-terms-actions-container&quot;]/div[@class=&quot;radio-item form-group dark&quot;]/div[@class=&quot;form-checkbox-radio&quot;]/label[@class=&quot;cs-radio-v2 checkbox-radio-content&quot;]/div[@class=&quot;cs-radio-v2-input-label&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/section/div/div/div/div/div/form/div[3]/div/div[2]/div/label/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/div</value>
+   </webElementXpaths>
+</WebElementEntity>

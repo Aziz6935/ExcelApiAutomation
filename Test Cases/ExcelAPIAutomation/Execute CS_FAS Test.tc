@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Execute CS_FAS Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>83dfa01b-cb1a-4774-8969-1c8e4b2a50a3</testCaseGuid>
+   <variable>
+      <defaultValue>'a.sales'</defaultValue>
+      <description></description>
+      <id>84c4c066-a69b-4174-b395-79c09ec9811a</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'park4701'</defaultValue>
+      <description></description>
+      <id>ef72cf4c-ee6c-4b0e-984c-4f93503b5899</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

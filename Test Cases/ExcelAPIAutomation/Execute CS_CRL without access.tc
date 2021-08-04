@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Execute CS_CRL without access</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>70da5d61-d169-4b9e-9735-00212c63d260</testCaseGuid>
+   <variable>
+      <defaultValue>'a.sales'</defaultValue>
+      <description></description>
+      <id>bd344bee-4501-4063-b943-0a3c9202223b</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'park4701'</defaultValue>
+      <description></description>
+      <id>46d5302b-72d3-430e-9be8-a03154aa3571</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

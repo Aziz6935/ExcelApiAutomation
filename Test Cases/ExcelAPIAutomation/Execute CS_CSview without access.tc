@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Execute CS_CSview without access</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4724ff1b-f7b4-4bc5-80a1-457d3e570781</testCaseGuid>
+   <variable>
+      <defaultValue>'a.sales'</defaultValue>
+      <description></description>
+      <id>75e944f8-cc57-406a-9a4c-00cc0a086cb2</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'park4701'</defaultValue>
+      <description></description>
+      <id>ea0dc4c6-658b-493f-b9fb-141bfc0fcb5e</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

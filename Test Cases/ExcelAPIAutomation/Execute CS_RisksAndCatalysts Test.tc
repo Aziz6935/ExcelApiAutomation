@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Execute CS_RisksAndCatalysts Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>859ca863-2d49-4e2d-b4cf-50c19c565c53</testCaseGuid>
+   <variable>
+      <defaultValue>'a.sales'</defaultValue>
+      <description></description>
+      <id>ca6db925-6993-4671-8577-f68d3f16e5e7</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'park4701'</defaultValue>
+      <description></description>
+      <id>7c3e0e59-e844-4c9d-9da4-ed23ac32e977</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d3099b5c-bb6d-420e-87f9-cc45bfd1fc15</id>
+      <masked>false</masked>
+      <name>valuekey</name>
+   </variable>
+</TestCaseEntity>
