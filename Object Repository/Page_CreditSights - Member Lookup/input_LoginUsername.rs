@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Login</name>
+   <name>input_LoginUsername</name>
    <tag></tag>
-   <elementGuidId>d63b1f8a-5be9-43bb-84ef-332479ede4b1</elementGuidId>
+   <elementGuidId>ff0b0571-3657-44b0-834e-5dc0c0a104d8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#ctl00_ctl00_ContentPlaceholder_ContentPlaceHolder_userLogin_btnGo</value>
+         <value>#ctl00_ctl00_ContentPlaceHolder_ContentPlaceHolder_MemberEnquiry_txtLoginSearch</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type='submit']</value>
+         <value>//input[@id='ctl00_ctl00_ContentPlaceHolder_ContentPlaceHolder_MemberEnquiry_txtLoginSearch']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -26,78 +26,50 @@
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>name</name>
       <type>Main</type>
-      <value>image</value>
+      <value>ctl00$ctl00$ContentPlaceHolder$ContentPlaceHolder$MemberEnquiry$txtLoginSearch</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>name</name>
+      <name>type</name>
       <type>Main</type>
-      <value>ctl00$ctl00$ContentPlaceholder$ContentPlaceHolder$userLogin$btnGo</value>
+      <value>text</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>ctl00_ctl00_ContentPlaceholder_ContentPlaceHolder_userLogin_btnGo</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>button</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Login</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>src</name>
-      <type>Main</type>
-      <value>images/mktg_login_button.gif</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>onclick</name>
-      <type>Main</type>
-      <value> this.disabled = true; __doPostBack('ctl00$ctl00$ContentPlaceholder$ContentPlaceHolder$userLogin$btnGo','');</value>
+      <value>ctl00_ctl00_ContentPlaceHolder_ContentPlaceHolder_MemberEnquiry_txtLoginSearch</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ctl00_ctl00_ContentPlaceholder_ContentPlaceHolder_userLogin_btnGo&quot;)</value>
+      <value>id(&quot;ctl00_ctl00_ContentPlaceHolder_ContentPlaceHolder_MemberEnquiry_txtLoginSearch&quot;)</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='ctl00_ctl00_ContentPlaceholder_ContentPlaceHolder_userLogin_btnGo']</value>
+      <value>//input[@id='ctl00_ctl00_ContentPlaceHolder_ContentPlaceHolder_MemberEnquiry_txtLoginSearch']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='marketing_content_wrapper']/div/div/div[2]/div/fieldset/div[3]/input</value>
+      <value>//div[@id='content_main']/div/div/table/tbody/tr[4]/td/table/tbody/tr/td[2]/input</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/input</value>
+      <value>//tr[4]/td/table/tbody/tr/td[2]/input</value>
    </webElementXpaths>
 </WebElementEntity>

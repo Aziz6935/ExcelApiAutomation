@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Excel permission after deleting user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6f0149db-f216-43a7-94aa-5fbb75ad7c21</testCaseGuid>
+   <variable>
+      <defaultValue>'a.sales'</defaultValue>
+      <description></description>
+      <id>a7ad0ecb-55a5-468c-803e-cba372a2779a</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'park4701'</defaultValue>
+      <description></description>
+      <id>d7b69db6-5799-4938-b1dc-b289347f41bc</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'wildcat'</defaultValue>
+      <description></description>
+      <id>de4a51a9-bdac-4f04-87b5-46fcd7b502fc</id>
+      <masked>false</masked>
+      <name>newuser</name>
+   </variable>
+   <variable>
+      <defaultValue>'6136e7a6-7331-48a6-86c5-4c08e3f8e514'</defaultValue>
+      <description></description>
+      <id>6f908c87-2dc6-4b8e-9f5b-cfd8d3a003fe</id>
+      <masked>false</masked>
+      <name>loginid</name>
+   </variable>
+</TestCaseEntity>

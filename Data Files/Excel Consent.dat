@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataFileEntity>
    <description></description>
-   <name>Add User Test</name>
+   <name>Excel Consent</name>
    <tag></tag>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
-   <dataFileGUID>0df1c0a8-294c-4bcb-add1-ec122ff1ba13</dataFileGUID>
-   <dataSourceUrl>Excel/Excel API Automation Data.xlsx</dataSourceUrl>
+   <dataFileGUID>b64af5b6-037b-4cc5-9108-628e93958af2</dataFileGUID>
+   <dataSourceUrl>Excel/Excel consent.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>true</isInternalPath>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
-   <sheetName>wildcat data</sheetName>
+   <sheetName>Excel consent</sheetName>
    <usingGlobalDBSetting>false</usingGlobalDBSetting>
 </DataFileEntity>

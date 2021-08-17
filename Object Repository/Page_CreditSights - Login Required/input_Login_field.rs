@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Login</name>
+   <name>input_Login_field</name>
    <tag></tag>
-   <elementGuidId>d63b1f8a-5be9-43bb-84ef-332479ede4b1</elementGuidId>
+   <elementGuidId>42d53ae7-b7f8-4d58-864a-a7b6d4ae60a5</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type='submit']</value>
+         <value>//input[@id='ctl00_ctl00_ContentPlaceholder_ContentPlaceHolder_userLogin_btnGo']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

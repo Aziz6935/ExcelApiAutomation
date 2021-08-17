@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Login</name>
+   <name>input_Confirm Password</name>
    <tag></tag>
-   <elementGuidId>d63b1f8a-5be9-43bb-84ef-332479ede4b1</elementGuidId>
+   <elementGuidId>47cf7e92-63e1-406c-825e-69824a1ee5f3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#ctl00_ctl00_ContentPlaceholder_ContentPlaceHolder_userLogin_btnGo</value>
+         <value>#ctl00_ctl00_ContentPlaceHolder_ContentPlaceHolder_MemberAdmin_btnSave</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type='submit']</value>
+         <value>//input[@id='ctl00_ctl00_ContentPlaceHolder_ContentPlaceHolder_MemberAdmin_btnSave']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -28,76 +28,69 @@
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>image</value>
+      <value>submit</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>ctl00$ctl00$ContentPlaceholder$ContentPlaceHolder$userLogin$btnGo</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>ctl00_ctl00_ContentPlaceholder_ContentPlaceHolder_userLogin_btnGo</value>
+      <value>ctl00$ctl00$ContentPlaceHolder$ContentPlaceHolder$MemberAdmin$btnSave</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>value</name>
       <type>Main</type>
-      <value>button</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Login</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>src</name>
-      <type>Main</type>
-      <value>images/mktg_login_button.gif</value>
+      <value>Submit</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>onclick</name>
       <type>Main</type>
-      <value> this.disabled = true; __doPostBack('ctl00$ctl00$ContentPlaceholder$ContentPlaceHolder$userLogin$btnGo','');</value>
+      <value>javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$ContentPlaceHolder$ContentPlaceHolder$MemberAdmin$btnSave&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_ctl00_ContentPlaceHolder_ContentPlaceHolder_MemberAdmin_btnSave</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rededitbutton</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ctl00_ctl00_ContentPlaceholder_ContentPlaceHolder_userLogin_btnGo&quot;)</value>
+      <value>id(&quot;ctl00_ctl00_ContentPlaceHolder_ContentPlaceHolder_MemberAdmin_btnSave&quot;)</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='ctl00_ctl00_ContentPlaceholder_ContentPlaceHolder_userLogin_btnGo']</value>
+      <value>//input[@id='ctl00_ctl00_ContentPlaceHolder_ContentPlaceHolder_MemberAdmin_btnSave']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='marketing_content_wrapper']/div/div/div[2]/div/fieldset/div[3]/input</value>
+      <value>//div[@id='buttons']/input</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/input</value>
+      <value>//div[2]/div/input</value>
    </webElementXpaths>
 </WebElementEntity>
